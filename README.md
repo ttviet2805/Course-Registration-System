@@ -1,5 +1,5 @@
 # Course Registration System
-This is the Course Registration System created by Student HCMUS-VNU - 21APCS1
+This is the Course Registration System created by Student HCMUS-VNU-21APCS1
 
 ## Members
 * 21125029 - Tran Tuan Viet
