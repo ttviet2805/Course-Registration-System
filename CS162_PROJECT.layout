@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="StudentFunction.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5421" topLine="191" />
+		</Cursor>
+	</File>
+	<File name="StaffHeader.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1043" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="MouseHeader.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SemesterHeader.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="180" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="StudentAndCourseHeader.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="89" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="StaffSystemHeader.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="287" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClassFunction.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8052" topLine="286" />
+		</Cursor>
+	</File>
+	<File name="SystemProcessHeader.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="78" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ConsoleSolve.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DateFunction.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="209" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ButtonFunction.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2182" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="CourseFunction.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="374" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="SemesterFunction.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="322" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="LoginFunction.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5433" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="14" />
+			<Collapse line="19" />
+			<Collapse line="41" />
+			<Collapse line="63" />
+			<Collapse line="114" />
+			<Collapse line="146" />
+			<Collapse line="191" />
+			<Collapse line="202" />
+			<Collapse line="225" />
+			<Collapse line="237" />
+		</Folding>
+	</File>
+	<File name="MouseFunction.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="170" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ConsoleSolve.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="726" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="StaffFunction.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10182" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="16" />
+			<Collapse line="42" />
+			<Collapse line="63" />
+			<Collapse line="90" />
+			<Collapse line="95" />
+			<Collapse line="105" />
+			<Collapse line="187" />
+			<Collapse line="199" />
+			<Collapse line="716" />
+			<Collapse line="794" />
+			<Collapse line="864" />
+			<Collapse line="958" />
+			<Collapse line="1044" />
+			<Collapse line="1096" />
+			<Collapse line="1168" />
+			<Collapse line="1223" />
+		</Folding>
+	</File>
+	<File name="SystemProcessFunction.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="LoginHeader.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="722" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="ClassHeader.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="StaffSystemFunction.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9214" topLine="54" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="57" />
+			<Collapse line="61" />
+			<Collapse line="65" />
+			<Collapse line="87" />
+			<Collapse line="150" />
+			<Collapse line="308" />
+			<Collapse line="380" />
+			<Collapse line="496" />
+			<Collapse line="585" />
+			<Collapse line="672" />
+			<Collapse line="678" />
+			<Collapse line="709" />
+			<Collapse line="731" />
+			<Collapse line="803" />
+			<Collapse line="931" />
+			<Collapse line="1034" />
+			<Collapse line="1038" />
+			<Collapse line="1042" />
+		</Folding>
+	</File>
+	<File name="ButtonHeader.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="StudentSystemFunction.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4354" topLine="43" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="406" />
+		</Folding>
+	</File>
+	<File name="DateHeader.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
